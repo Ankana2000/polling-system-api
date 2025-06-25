@@ -18,3 +18,6 @@ A polling system, only API based.
   <li>/options/:id/add_vote (To increment the count of votes)</li>
   <li>/questions/:id (To view a question and it’s options)</li>
 </ul>
+## 🚀 Live Demo
+
+[Click here to view the deployed app](https://polling-system-th6r.onrender.com)
